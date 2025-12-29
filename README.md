@@ -1,7 +1,7 @@
-What's up! You can call me Shercosta!
-I am a bachelor degree student for Informatics Engineering.
-Currently, i am enhancing my skill for Website Development stuff.
-I'd like to learn more about tech stuff.
+Shercosta:
+Goal Driven Developer. 
+I can do anything you want (code wise) as long as it is possible in the world.
+Not only code, i can also manage/lead a team of software engineers/developers
 
 <!---
 Shercosta/Shercosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
